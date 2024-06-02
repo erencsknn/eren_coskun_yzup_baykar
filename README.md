@@ -52,6 +52,7 @@ python test_run_for_images.py --input_folder path_to_input_images --output_folde
 `path_to_input_images`, `path_to_save_segmented_images`, `path_to_output_video` sisteminizde dosyalarınızı saklamak istediğiniz gerçek yollarla değiştirin.
 
 ## Test Videosu için Nasıl Çalıştırılır
+### Custom videonuzu modelimizde test etmeniz için öncelikle test_videos klasörü içindeki extract_video_frame.py scriptini çalıştırarak video frameler haline getirilmelidir. Default video frameleri test_videos klasöründe bulunmaktadır. 
 
 1. Terminalinizi veya komut istemcinizi açın.
 2. Proje dizinine gidin.
