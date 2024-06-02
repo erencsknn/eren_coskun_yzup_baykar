@@ -1,4 +1,4 @@
-# Semantic Segmentation Project
+# YZUP Semantic Segmentation Project FOR AERIAL VEHİCLES
 
 Bu proje, UDD-VDD veri setini kullanarak iniş yapan hava araçları için bir semantik segmentasyon uygulaması geliştirmeyi amaçlamaktadır. Proje kurulumu ve çalıştırılması için aşağıdaki talimatlar izlenebilir.
 
